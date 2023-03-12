@@ -20,3 +20,7 @@ To modify the parameters of the webhook and add a default webhook you will have 
 To modify the parameters of the vinted bot you will have to go in (Settings), once in this page you can modify the integrality of the parameters of the vinted bot (more parameters will arrive)
 
 To launch the bot you will have to go to (Run, Need to have at least 1 product!), the bot will then start to retrieve the first ad that it will store in a temporary file in the temp folder to not display the same product, if it detects a new product it will send a webhook.
+
+# Need Help ?
+
+if you can't get the bot to work come to my discord : https://dsc.gg/tgdgithub
