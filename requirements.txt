@@ -1,0 +1,8 @@
+configparser
+requests
+datetime
+selenium
+bs4
+keyboard
+webdriver_manager
+fake_headers
